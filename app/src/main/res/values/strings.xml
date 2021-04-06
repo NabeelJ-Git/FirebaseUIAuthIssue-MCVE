@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FirebaseUIAuthTest</string>
+    <string name="sign_in_welcome_text">You have signed in! Welcome:</string>
+</resources>
